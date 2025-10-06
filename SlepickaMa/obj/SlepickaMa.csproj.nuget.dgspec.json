@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kryst\\source\\repos\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj": {}
+    "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kryst\\source\\repos\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj": {
+    "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kryst\\source\\repos\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj",
+        "projectUniqueName": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj",
         "projectName": "SlepickaMa",
-        "projectPath": "C:\\Users\\kryst\\source\\repos\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj",
-        "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kryst\\source\\repos\\SlepickaMa\\SlepickaMa\\obj\\",
+        "projectPath": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\SlepickaMa\\SlepickaMa\\SlepickaMa.csproj",
+        "packagesPath": "C:\\Users\\honzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\SlepickaMa\\SlepickaMa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\honzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
